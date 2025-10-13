@@ -26,13 +26,17 @@ Maybe it follows a weekly format.
 |E7|1|https://youtu.be/werUh2w7n88?si=pTJmVGgMvGLT7R1Y&t=280|SAP Developer news|x|
 |9E349B|2|https://community.sap.com/t5/tooling-sap-build-forum/devtoberfest-scavenger-hunt-clue-are-you-enjoying-it/m-p/14231120|FText Color|x|
 |1D34|3|https://api.sap.com/api/CE_SALESORDER_0001/resource/Batch_Requests|How many request the batch has|x|
-|0e|4|96376620a8f69d3ec3ad7acec753137a1d5f021c|To be released Oct. 2 (check out this week's Developer News)||
+|0E|4|96376620a8f69d3ec3ad7acec753137a1d5f021c|To be released Oct. 2 (check out this week's Developer News)||
 |117B|5|https://help.sap.com/docs/Joule_Studio and https://help.sap.com/whats-new/cf0cb2cb149647329b5d02aa96303f56?q=devto |To be released Oct. 6||
 |0E313A|6||80*65*180 - 5894 then 06f formatting||
 |DE3AE1|7|https://discovery-center.cloud.sap/missiondetail/4651/4940/ and https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc?_highlight=extend|||
-|44a4a6|8|https://youtu.be/gSBCY7537lc?si=WBTkOcmGeKxEC6Y9&t=11|||
+|44A4A6|8|https://youtu.be/gSBCY7537lc?si=WBTkOcmGeKxEC6Y9&t=11|||
 |D|9|https://roadmaps.sap.com/board?q=joule%20studio&range=CURRENT-LAST#Q4%202025;INNO=000D3A|||
 ||10||||
+
+```
+E79E349B1D340E117B0E313ADE3AE144A4A6D
+```
 
 ### Check for Scavenger Hunt
 [check](https://developers.sap.com/tutorials/devtoberfest2025-scavenger-hunt-checking.html)

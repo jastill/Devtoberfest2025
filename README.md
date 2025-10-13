@@ -30,8 +30,8 @@ Maybe it follows a weekly format.
 |117B|5|https://help.sap.com/docs/Joule_Studio and https://help.sap.com/whats-new/cf0cb2cb149647329b5d02aa96303f56?q=devto |To be released Oct. 6||
 |0E313A|6||80*65*180 - 5894 then 06f formatting||
 |DE3AE1|7|https://discovery-center.cloud.sap/missiondetail/4651/4940/ and https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc?_highlight=extend|||
-||8||||
-||9||||
+|44a4a6|8|https://youtu.be/gSBCY7537lc?si=WBTkOcmGeKxEC6Y9&t=11|||
+|D|9|https://roadmaps.sap.com/board?q=joule%20studio&range=CURRENT-LAST#Q4%202025;INNO=000D3A|||
 ||10||||
 
 ### Check for Scavenger Hunt
